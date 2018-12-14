@@ -18,7 +18,7 @@ In [this design manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-d
 
 In this project, my group and I redesigned the Worcester Public Library website for mobile optimization and a target age demographic of nine to twelve years old.
 
-[![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designfortension.PNG)](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
+[![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designforothers2.PNG)](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
 
 **[Read the design document!](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)**
 
@@ -35,7 +35,7 @@ Here, my group and I took the set of data of the 2016 Primary Elections and made
 
 This project involved making a chatbot that spoke on a controversal topic. My group and I chose gun control as our topic and made a neutral bot that provided both pros and cons of different reasons for gun control.
 
-[![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designfortension.PNG)](https://medium.com/@ryancirella_80180/design-for-tension-1a9cbc44485c)
+[![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designfortension.PNG)](https://medium.com/@ryancirella_80180/design-for-tension-1a9cbc44485c)
 
 **[Watch the Demo Video!](https://www.youtube.com/watch?v=txtsGZI764Y)**
 **[Read the design document!](https://medium.com/@ryancirella_80180/design-for-tension-1a9cbc44485c)**
