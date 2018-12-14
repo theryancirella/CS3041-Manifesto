@@ -26,8 +26,7 @@ In this project, my group and I redesigned the Worcester Public Library website 
 
 Here, my group and I took the set of data of the 2016 Primary Elections and made it into two seperate sets of data. One set was designed to be easy for the user to read and understand while the other was meant to visually make an impact on him or her.
 
-[![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforunderstanding_1.png)](https://medium.com/@ryancirella_80180/design-for-understanding-8bde8bfd54f)
-[![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforunderstanding_2.png)](https://medium.com/@ryancirella_80180/design-for-understanding-8bde8bfd54f)
+[![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designforunderstanding_1.png)](https://medium.com/@ryancirella_80180/design-for-understanding-8bde8bfd54f)
 
 **[Read the design document!](https://medium.com/@ryancirella_80180/design-for-understanding-8bde8bfd54f)**
 
@@ -38,13 +37,15 @@ This project involved making a chatbot that spoke on a controversal topic. My gr
 [![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designfortension.PNG)](https://medium.com/@ryancirella_80180/design-for-tension-1a9cbc44485c)
 
 **[Watch the Demo Video!](https://www.youtube.com/watch?v=txtsGZI764Y)**
+
 **[Read the design document!](https://medium.com/@ryancirella_80180/design-for-tension-1a9cbc44485c)**
 
 ### [Design for Wellbeing](https://medium.com/@ryancirella_80180/design-for-wellbeing-846877f53c94)
 
 In this project, the goal was to use the affectiva java library to create something that will promote someone's wellbeing. My group and I created a game where the user tries to match faces with emojis for a score meant to be fun and improve the user's wellbeing.
 
-[![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforwellbeing.PNG)](https://medium.com/@ryancirella_80180/design-for-wellbeing-846877f53c94)
+[![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designforwellbeing.PNG)](https://medium.com/@ryancirella_80180/design-for-wellbeing-846877f53c94)
 
 **[Watch the Demo Video!](https://www.youtube.com/watch?v=3ag_m-_f-8I)**
+
 **[Read the design document!](https://medium.com/@ryancirella_80180/design-for-wellbeing-846877f53c94)**
