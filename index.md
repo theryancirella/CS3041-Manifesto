@@ -18,7 +18,7 @@ In [this design manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-d
 
 In this project, my group and I redesigned the Worcester Public Library website for mobile optimization and a target age demographic of nine to twelve years old.
 
-[![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforothers2.PNG)](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
+[![Image](https://raw.githubusercontent.com/theryancirella/CS3041-Manifesto/master/designfortension.PNG)](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
 
 **[Read the design document!](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)**
 
