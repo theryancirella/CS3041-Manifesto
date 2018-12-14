@@ -8,7 +8,7 @@ My name is Ryan Cirella. I'm currently a sophmore at Worcester Polytechnic Insit
 
 In [this design manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-design-manifesto-3a95578bf75e), I discuss the points that define my design process for the projects throughout this class.
 
-###[Click here to read the full manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-design-manifesto-3a95578bf75e)
+### [Click here to read the full manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-design-manifesto-3a95578bf75e)
 
 ## Human Computer Interaction Projects
 
