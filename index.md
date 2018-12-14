@@ -1,3 +1,18 @@
+# Human Computer Interaction Portfolio
+
+## About Me
+
+My name is Ryan Cirella. I'm currently a sophmore at Worcester Polytechnic Insitute pursuing an undergraduate degree in Computer Science. I have experience coding with Java, C, C++, and HTML.
+
+## Design Manifesto
+
+In [this design manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-design-manifesto-3a95578bf75e), I discuss the points that define my design process for the projects throughout this class.
+
+###[Click here to read the full manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-design-manifesto-3a95578bf75e)
+
+## Human Computer Interaction Projects
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/theryancirella/CS3041-Manifesto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
