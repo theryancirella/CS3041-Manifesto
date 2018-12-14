@@ -18,11 +18,15 @@ In [this design manifesto](https://medium.com/@ryancirella_80180/ryan-cirellas-d
 
 In this project, my group and I redesigned the Worcester Public Library website for mobile optimization and a target age demographic of nine to twelve years old.
 
+![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforothers.jpg)
+
 [Read the design document!](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
 
 ### [Design for Understanding](https://medium.com/@ryancirella_80180/design-for-understanding-8bde8bfd54f)
 
 Here, my group and I took the set of data of the 2016 Primary Elections and made it into two seperate sets of data. One set was designed to be easy for the user to read and understand while the other was meant to visually make an impact on him or her.
+
+![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforunderstanding_1.png) ![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforunderstanding_2.png)
 
 [Read the design document!](https://medium.com/@ryancirella_80180/design-for-understanding-8bde8bfd54f)
 
@@ -30,11 +34,15 @@ Here, my group and I took the set of data of the 2016 Primary Elections and made
 
 This project involved making a chatbot that spoke on a controversal topic. My group and I chose gun control as our topic and made a neutral bot that provided both pros and cons of different reasons for gun control.
 
+![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designfortension.PNG)
+
 [Read the design document!](https://medium.com/@ryancirella_80180/design-for-tension-1a9cbc44485c)
 
 ### [Design for Wellbeing](https://medium.com/@ryancirella_80180/design-for-wellbeing-846877f53c94)
 
 In this project, the goal was to use the affectiva java library to create something that will promote someone's wellbeing. My group and I created a game where the user tries to match faces with emojis for a score meant to be fun and improve the user's wellbeing.
+
+![Image](https://github.com/theryancirella/CS3041-Manifesto/blob/master/designforwellbeing.PNG)
 
 [Read the design document!](https://medium.com/@ryancirella_80180/design-for-wellbeing-846877f53c94)
 
